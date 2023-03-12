@@ -6,4 +6,4 @@
 
 <img src="screen.gif">
 
-<p>Click <a href="https://glittering-gelato-cd76a7.netlify.app">here</a> to try live it!</p>
+<p>Click <a target="_blank" href="https://glittering-gelato-cd76a7.netlify.app">here</a> to try live it!</p>
