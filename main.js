@@ -6,7 +6,7 @@ const desc = document.getElementById("desc");
 const minmax = document.getElementById("minmax");
 
 //! Api related defs
-const geoUrl = "http://api.openweathermap.org/geo/1.0/";
+const geoUrl = "https://api.openweathermap.org/geo/1.0/";
 
 const weatherUrl = "https://api.openweathermap.org/data/2.5/";
 
